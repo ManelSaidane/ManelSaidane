@@ -2,7 +2,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,35:5425A8,70:087EBC,100:09090F&height=230&section=header&text=MANEL%20SAIDANE&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI&descAlignY=60&descSize=17&animation=fadeIn" width="100%"/>
+<div align="center">
+  <img
+    src="./manel-saidane-github-banner.png"
+    width="100%"
+    alt="Manel Saidane — Software Engineer"
+  />
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=B69CFF&center=true&vCenter=true&width=700&lines=Building+ideas+into+real+software.;Full-Stack+Development+%7C+Artificial+Intelligence;Web+%26+Mobile+Application+Development;Engineering+with+creativity+and+purpose.)](https://git.io/typing-svg)
 
