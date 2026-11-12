@@ -4,7 +4,7 @@
 
 <div align="center">
   <img
-    src="./manel-saidane-github-banner.png"
+    src="./Bannière développeur futuriste violette.png"
     width="100%"
     alt="Manel Saidane — Software Engineer"
   />
