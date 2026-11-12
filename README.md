@@ -34,18 +34,15 @@ Hello! I'm **Manel Saidane**, a Computer Engineer passionate about designing, de
 
 🌍 Currently pursuing new opportunities and exploring advanced technologies.
 
-```javascript
-const manel = {
-    role: "Software Engineer",
-    specialization: ["Full-Stack Development", "Artificial Intelligence"],
-    frontend: ["React", "Angular", "Next.js"],
-    backend: ["Spring Boot", "Node.js", "Python"],
-    mobile: ["Flutter"],
-    databases: ["PostgreSQL", "MongoDB", "MySQL"],
-    ai: ["YOLOv8", "PaddleOCR", "LayoutLMv3"],
-    mindset: "Build. Learn. Innovate. Repeat."
-};
-```
+### 💻 What I Do
+
+- 🚀 **Full-Stack Development:** Building modern web applications with React, Angular, Next.js and Spring Boot.
+- 🤖 **Artificial Intelligence:** Exploring computer vision, machine learning and intelligent document processing.
+- 📱 **Mobile Development:** Creating cross-platform applications with Flutter.
+- 🗄️ **Database Engineering:** Working with PostgreSQL, MongoDB and MySQL.
+- 🧩 **Software Engineering:** Designing scalable architectures and transforming ideas into practical solutions.
+
+**My philosophy:** Build. Learn. Innovate. Repeat. 💜
 
 ---
 
